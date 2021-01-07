@@ -1,0 +1,13 @@
+hal_freertos_demo\heap_4.o: ..\FreeRTOS\portable\MemMang\heap_4.c
+hal_freertos_demo\heap_4.o: E:\install\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+hal_freertos_demo\heap_4.o: ..\FreeRTOS\include\FreeRTOS.h
+hal_freertos_demo\heap_4.o: E:\install\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+hal_freertos_demo\heap_4.o: E:\install\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hal_freertos_demo\heap_4.o: ..\FreeRTOS\include\FreeRTOSConfig.h
+hal_freertos_demo\heap_4.o: ..\FreeRTOS\include\projdefs.h
+hal_freertos_demo\heap_4.o: ..\FreeRTOS\include\portable.h
+hal_freertos_demo\heap_4.o: ..\FreeRTOS\include\deprecated_definitions.h
+hal_freertos_demo\heap_4.o: ..\FreeRTOS\portable\RVDS\ARM_CM3\portmacro.h
+hal_freertos_demo\heap_4.o: ..\FreeRTOS\include\mpu_wrappers.h
+hal_freertos_demo\heap_4.o: ..\FreeRTOS\include\task.h
+hal_freertos_demo\heap_4.o: ..\FreeRTOS\include\list.h
